@@ -4,4 +4,4 @@ author: AmenAnthem
 ---
 
 # Routes
-- [Any% Normal](routes/any-percent-normal.md)
+- [Any% Easy](routes/any-percent-easy.md)

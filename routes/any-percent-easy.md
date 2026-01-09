@@ -1,5 +1,5 @@
 ---
-title: Any% Normal
+title: Any% Easy
 author: AmenAnthem
 ---
 
@@ -111,8 +111,7 @@ author: AmenAnthem
 - door
 - elevator
 - door
-- right, use control panel, hit red lights with knife until blue lights, order (left to right):
-    - 1, 2, 3, 2, 3, 2, 1, 3, 3, 1, 2, 3, 1, 1, 2, 3
+- right, use control panel, hit red lights with knife until blue lights
 - down ladder, left, left ladder up, get **Diving Suit**
 - ladder down, use control panel next to ladder
 - down, door
@@ -171,9 +170,8 @@ author: AmenAnthem
 - down stairs, door
 - get **3rd Energy Disk**, door
 - up stairs
-- activate fire on dino 6 times (activate vent, hit with knife, alternate between vents)
-- right, use control panel, hit red lights with knife until blue lights, order (left to right):
-    - 1, 3, 5, 3, 1, 3, 4, 1, 5, 4, 3, 5, 2, 2, 3, 1, 5, 2, 3, 4, 3
+- activate fire on dino 3 times (activate vent, hit with knife, alternate between vents)
+- right, use control panel, hit red lights with knife until blue lights
 - left, elevator up, use control panel, use rocket buttons, elevator down, leave
 - down stairs, door
 - door
