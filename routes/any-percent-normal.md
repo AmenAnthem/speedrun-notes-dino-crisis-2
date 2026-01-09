@@ -4,4 +4,189 @@ author: AmenAnthem
 ---
 
 # Route
-## TODO
+## Dylan 1: Research Facility Keycard
+- same door
+- ladder up, left, ladder down
+- ladder down, ladder down
+- ladder down, ladder down
+- ladder up, straight, down, door
+- straight, door
+- right, door
+- ladder down, door
+- ignore dino, right, destroy box, ladder up, ladder down, left
+- door
+- first door left
+- get **Key Plate**, door
+- right door
+- door
+- first door left
+- straight, use **Key Plate** (first item) on control panel, get **Research Facility Keycard**
+
+## Regina 1: Free Dylan
+- door straight, open with knife
+- door
+- ladder up
+- left, door
+- ladder up, ladder up, door
+- ladder up, ladder down, right door
+- same door
+- shop, buy **Firewall** sub weapon, equip, door
+- ladder up, ladder down, door
+- ladder down, ladder down, door
+- left, door
+- use **Firewall** on blossoms, right, door
+- ladder down, door
+- left, door
+- right, door
+- ladder down, door
+- straight, left, door (blue building)
+- get **Key Plate**, same door
+- right door
+- door
+- equipe knife, second door left, open with knife
+- use **Key Plate** (second item) on control panel, blue button, get **Key Plate**, door
+- second door right
+- door
+- first door left
+- use **Key Plate** (second item) on control panel
+
+## Dylan 2: Repair Ship
+- door
+- left door
+- ladder up
+- second door
+- ladder down, ladder up, ladder down, get **3rd Energy Facility Keycard** from hole to right, ladder up, door
+- left, ladder up, ladder down
+- ladder down, ladder down
+- ladder down, ladder down
+- ladder up, straight, down, door
+- left, door
+- ladder up, door
+- left, door
+- right, door
+- ladder up, ladder up, door
+- ladder up, ladder down, left door, open with machete
+- use **Research Facility Keycard** (first item) on control panel next to door
+- right, use **Research Facility Keycard** (first item) on control panel next to door, lure mini dino to opening near control panel door, door next to opening, open with machete
+- right, close opening, left, close opening, open cage, right, close opening, lure mini dino to cage, get **Research Facility Keycard**, same door
+- use **Research Facility Keycard** (first item) on control panel next to door, door
+- get **Starter Battery**, same door
+- straight, use **Research Facility Keycard** (first item) on control panel next to door, door
+- door
+- right, ladder up, ladder down, door
+- ladder down, ladder down, door
+- left, door
+- right, door
+- ladder down, door
+- right, door
+- ladder up, ladder up, ladder down, ladder down, ladder up
+- ladder up, ladder up
+- ladder up, ladder up
+- straight, ladder down, right door
+- ladder down, ladder up, ladder down, ladder up, door
+- right, ladder down
+- door
+- go to **3rd Energy Facility**
+- shooting mini game
+
+## Regina 2: Drain Water
+- right door
+- bridge
+- door
+- door
+- door
+- right, use **3rd Energy Facility Keycard** (second item) on control panel next to door, door
+- door
+- up stairs, left, door (without control panel)
+- get **Mechanic's ID Card** from dead body, same door
+- use **Mechanic's ID Card** (second item) on control panel, enter code, possible codes:
+    - 0153
+    - 1452
+    - 2350
+    - 3051
+    - 4015
+    - 4521
+    - 5210
+    - 5420
+- door
+- elevator
+- door
+- right, use control panel, hit red lights with knife until blue lights, order (left to right):
+    - 1, 2, 3, 2, 3, 2, 1, 3, 3, 1, 2, 3, 1, 1, 2, 3
+- down ladder, left, left ladder up, get **Diving Suit**
+- ladder down, use control panel next to ladder
+- down, door
+- shop, buy **Aquagrenade** main weapon, equip, ladder down, right door
+- jump, door
+- door (not elevator)
+- left, jump up next to door, jump right onto bridge, jump, use **Aquagrenade** on broken platform, jump, door
+- jump over pipes, get **Plug**, down, door
+- jump, door
+- jump ladder up, left, use **Plug** (first item) on control panel, right, ladder down, right door
+- jump, door
+- door (not elevator)
+- left, left door
+- elevator up, jump, get **City Keycard** next to dead body, left, elevator down, door
+- jump up platforms, right, jump over gaps to right, destroy panels with **Aquagrenade**, use control panel, door
+- elevator
+- down stairs, left
+
+## Dylan 3: Gas Mask
+- bridge
+- door
+- shop, buy **Chainmine** and **Antitank Rifle**, door right
+- bridge
+- door
+- right, door, open with machete
+- equip **Chainmine**, door
+- door
+- use **Chainmine** on bolder, left, ladder up
+- right, ladder up
+- right, use **Chainmine** on bolder, straight, ladder down
+- left, use **Chainmine** on bolder, right, use **Chainmine** on bolder, straight, door
+- ladder up
+- use **Signal Bullet** on containers, ladder up, ladder up
+- ladder up, down opposing to ladder, use **Signal Bullet** on containers, ladder up, ladder up
+- meet up with Dylan
+- door
+- shooting mini game
+- ladder up (Bobson's Store), door
+- get **Living Quarter Key**, same door
+- ladder down, door next to barrels
+- use **Living Quarter Key** (second item) on door, door
+- tank mini game, keep right
+- get **Gas Mask**
+
+## Regina 3: Launch Rocket
+- go to **Jungle Area**
+- right door
+- ladder up
+- door straight, open with knife
+- door
+- ladder up
+- straight, door
+- left, ladder down
+- ladder down, ladder down, door
+- door
+- down stairs, door
+- get **3rd Energy Disk**, door
+- up stairs
+- activate fire on dino 6 times (activate vent, hit with knife, alternate between vents)
+- right, use control panel, hit red lights with knife until blue lights, order (left to right):
+    - 1, 3, 5, 3, 1, 3, 4, 1, 5, 4, 3, 5, 2, 2, 3, 1, 5, 2, 3, 4, 3
+- left, elevator up, use control panel, use rocket buttons, elevator down, leave
+- down stairs, door
+- door
+- door
+
+## Dylan 4: Giganotosaurus
+- shooting mini game
+- equip **Antitank Rifle**, run ahead to door, shoot from afar, door
+- run ahead, ladder up, shoot from afar, equip **Shotgun** after, door
+- ladder up, hit barrier, ladder down, activate 4 power terminals, ladder up next to barrier, use control panel, door
+- slide door, door
+- slide door, slide door, door
+- down stairs
+- door
+- cross bridge, left, use control panel, right, control panel, left, big console
+- right, door
