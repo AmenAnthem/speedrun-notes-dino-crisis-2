@@ -12,7 +12,7 @@ author: AmenAnthem
 - ladder up, straight, down, door
 - straight, door
 - right, door
-- ladder down, door
+- ladder down, kill 6 dinos, door
 - ignore dino, right, destroy box, ladder up, ladder down, left
 - door
 - first door left
@@ -30,12 +30,12 @@ author: AmenAnthem
 - ladder up, ladder up, door
 - ladder up, ladder down, right door
 - same door
-- shop, buy **Firewall** sub weapon, equip, door
+- shop, buy **Flame Launcher** main weapon, equip, door
 - ladder up, ladder down, door
 - ladder down, ladder down, door
 - left, door
-- use **Firewall** on blossoms, right, door
-- ladder down, door
+- use **Flame Launcher** on blossoms, right, door
+- use **Flame Launcher** on blossoms, ladder down, door
 - left, door
 - right, door
 - ladder down, door
@@ -43,7 +43,7 @@ author: AmenAnthem
 - get **Key Plate**, same door
 - right door
 - door
-- equipe knife, second door left, open with knife
+- equip knife, second door left, open with knife
 - use **Key Plate** (second item) on control panel, blue button, get **Key Plate**, door
 - second door right
 - door
@@ -51,7 +51,6 @@ author: AmenAnthem
 - use **Key Plate** (second item) on control panel
 
 ## Dylan 2: Repair Ship
-- door
 - left door
 - ladder up
 - second door
@@ -133,7 +132,7 @@ author: AmenAnthem
 ## Dylan 3: Gas Mask
 - bridge
 - door
-- shop, buy **Chainmine** and **Antitank Rifle**, door right
+- shop, buy **Chainmine**, door right
 - bridge
 - door
 - right, door, open with machete
@@ -179,8 +178,8 @@ author: AmenAnthem
 
 ## Dylan 4: Giganotosaurus
 - shooting mini game
-- equip **Antitank Rifle**, run ahead to door, shoot from afar, door
-- run ahead, ladder up, shoot from afar, equip **Shotgun** after, door
+- run ahead to door, shoot from afar, door
+- run ahead, ladder up, shoot from afar, door
 - ladder up, hit barrier, ladder down, activate 4 power terminals, ladder up next to barrier, use control panel, door
 - slide door, door
 - slide door, slide door, door
