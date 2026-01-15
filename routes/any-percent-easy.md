@@ -30,12 +30,12 @@ author: AmenAnthem
 - ladder up, ladder up, door
 - ladder up, ladder down, right door
 - same door
-- shop, buy **Flame Launcher** main weapon, equip, door
+- shop, buy **Firewall** sub weapon, equip, door
 - ladder up, ladder down, door
 - ladder down, ladder down, door
 - left, door
-- use **Flame Launcher** on blossoms, right, door
-- use **Flame Launcher** on blossoms, ladder down, door
+- use **Firewall** on blossoms, right, door
+- use **Firewall** on blossoms, ladder down, door
 - left, door
 - right, door
 - ladder down, door
